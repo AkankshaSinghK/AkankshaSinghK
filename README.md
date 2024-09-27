@@ -72,4 +72,25 @@
 
 <p align="left">🌐 Check out my repositories, and feel free to explore, contribute, or simply say hello! 🌈<br><br>👯 Open to collaboration and excited about the vast world of software development.<br><br>Let's code and learn together! 🖥️✨</p>
 
-###
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akankshasinghk&theme=2077" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=akankshasinghk&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshasinghk&theme=midnight-purple" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
