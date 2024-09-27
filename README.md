@@ -87,9 +87,6 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=akankshasinghk&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-</td>
-<td>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshasinghk&theme=midnight-purple" alt="Streak Stats"/>
 </td>
 </tr>
