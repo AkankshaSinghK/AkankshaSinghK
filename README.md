@@ -72,6 +72,9 @@
 
 <p align="left">🌐 Check out my repositories, and feel free to explore, contribute, or simply say hello! 🌈<br><br>👯 Open to collaboration and excited about the vast world of software development.<br><br>Let's code and learn together! 🖥️✨</p>
 
+### Holopin Badges
+[![An image of @akankshasinghk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akankshasinghk)](https://holopin.io/@akankshasinghk)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
