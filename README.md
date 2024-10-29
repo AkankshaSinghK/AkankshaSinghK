@@ -74,7 +74,7 @@
 
 
 
-### Hactoberfest 2024 Badges
+🎖️ ### Hactoberfest 2024 Badges
 [![An image of @akankshasinghk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akankshasinghk)](https://holopin.io/@akankshasinghk)
 
 ## GSSOC(24) Badges 🪶
